@@ -1,0 +1,9 @@
+# Vídeos não são versionados (tamanho e direitos autorais). Coloque os seus em filmes/
+filmes/*
+!filmes/.gitkeep
+
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
